@@ -15,6 +15,7 @@ In the completed line graph below it can be seen that on average, urban cities h
 ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ## Summary
-1. The average fare per rider and per driver is higher when there are a lower number of riders. Since there was a total of 125 rides and 78 total drivers in rural cities more drivers could be allocated to more populated urban or suburban cities, or a limit to the number of drivers could be place in rural cities to lower the average fare price.  
+In order to address any disparities among the city types my three business recommendations are as follows:
+1. Because the average fare per rider and per driver is higher when there are a lower number of riders. Since there was a total of 125 rides and 78 total drivers in rural cities more drivers could be allocated to more populated urban or suburban cities, or a limit to the number of drivers could be place in rural cities to lower the average fare price.  
 2. Based on the low total fare overall in the month of january, a cutoff could also be placed on the amount of drivers for all city types, this would lower the avergage fare per ride and encourage peple to ride during this time which would then increase profits. 
-3. 
+3. Being that the end of February being a time of the year where all three types of cities flourished, it would be a good avenue to focus on discovering the reasons why this increase occured. Whatever factors assisted in the rise of total fares coul be applied to lower months of the year to increase overall success.
