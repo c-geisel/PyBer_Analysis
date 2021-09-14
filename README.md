@@ -15,3 +15,4 @@ The following dataframe shows that urban cities had the highest number of total 
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+j
