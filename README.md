@@ -1,5 +1,7 @@
 # PyBer Analysis
 
+[Link to Analysis Code](https://github.com/user/repo/blob/branch/other_file.md)
+
 ## Overview of the analysis
 The following project analyzes the company PyBer's data on ride sharing. In this analysis the goal is to create a multiple-line graph that compares the Fare prices of various types of cities depending on the time of the year. In past assignments for this company, analyses have been completed on the data between ride counts, driver counts, and average fare prices based on the type of city. This assignment varies in the aspect that we are incorporating the data across a period of time. To complete this assignment, a summary data frame is created using pandas and then the graph is created using matplotlib. This analysis will assist decision makers address disparities among rural, suburban, and urban cities. 
 
